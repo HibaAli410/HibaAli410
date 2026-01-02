@@ -24,7 +24,7 @@
 ### 🛠️ Tech Stack
 
 **Web Development**
-HTML • CSS • JavaScript • Tailwind CSS • Bootstrap
+HTML • CSS • JavaScript • Tailwind CSS 
 
 **Mobile Development**
 React Native • Expo • **NativeWind (Tailwind for React Native)**
